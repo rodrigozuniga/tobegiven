@@ -1,3 +1,5 @@
  select * 
  from table1
- limit 100
+ limit 100;
+ select count(*)
+ from table1;
