@@ -5,4 +5,9 @@
  from table1;
  select count(distinct ids)
  from table1;
+ select ids,count(*)
+ from table1
+ group by 1
+ order by 1;
+ 
  
