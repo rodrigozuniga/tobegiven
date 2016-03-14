@@ -3,3 +3,6 @@
  limit 500;
  select count(*)
  from table1;
+ select count(distinct ids)
+ from table1;
+ 
