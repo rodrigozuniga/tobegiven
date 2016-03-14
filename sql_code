@@ -9,5 +9,8 @@
  from table1
  group by 1
  order by 1;
- 
+ select month,count(*)
+ from table1
+ group by 1
+ order by 1;
  
