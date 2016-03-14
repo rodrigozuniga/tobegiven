@@ -1,2 +1,4 @@
  select * from table1
  limit 500000
+ select count(*) from table 1;
+ 
