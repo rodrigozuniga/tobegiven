@@ -1,6 +1,7 @@
  --add comments
  --add comments 2
  --add comments 3
+ --add comments 4
  select * 
  from table1
  limit 500;
